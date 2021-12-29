@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ApplicationFinal</string>
+
+    <string name="name">Name :</string>
+    <string name="location">Location :</string>
+    <string name="bio">Bio :</string>
+    <string name="company">Company :</string>
+    <string name="share">Share</string>
+    <string name="smaple">sample</string>
+</resources>
